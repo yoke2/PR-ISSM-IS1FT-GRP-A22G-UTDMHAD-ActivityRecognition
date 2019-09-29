@@ -10,9 +10,8 @@ This project sets out to explore sensor-based machine learning approaches to hum
 
 ---
 ## SECTION 3 : TEAM & MEMBERS
-Team Name: A22G
-Members: Alfred Tay Wenjie, Wang Zilong, Wong Yoke Keong
-
+Team Name: A22G  
+Members  : Alfred Tay Wenjie, Wang Zilong, Wong Yoke Keong
 
 ---
 ## SECTION 4 : USAGE GUIDE
