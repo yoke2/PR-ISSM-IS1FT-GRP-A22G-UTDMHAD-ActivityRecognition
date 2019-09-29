@@ -20,8 +20,8 @@ Members  : Alfred Tay Wenjie, Wang Zilong, Wong Yoke Keong
 
 The team has provided notebooks that are ready to run in Google Colab. Please see below for instructions.
 
-1. Navigate to the Notebooks folder
-2. Within the folder, there is a [Notebook Description](Notebooks/README.md) file listing the each notebook file, a brief description for that notebook and a link to open the notebook in Google Colab
+1. Navigate to the [Notebooks](/Notebooks) folder
+2. Within the folder, there is a Notebook Description file listing the each notebook file, a brief description for that notebook and a link to open the notebook in Google Colab
 3. Click on the 'Open in Colab' icon [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)] to view the Notebook in Google Colab Playground Mode
 4. To execute the notebook, you need to make a copy of it by clicking on the Copy to Drive icon and subsequently from the menu, click `Runtime > Run all`. Please note that you will need to have a Google Account to execute the notebook.
 
