@@ -36,7 +36,10 @@ The notebooks have been validated on Google Colab. For local run, please refer t
 
 #### Python package requirements
 
-To install them, please use command `pip install -r requirements.txt` using the accompanying requirements.txt
+To install them, please use the following commands
+
+1. conda install -c pytorch -c fastai fastai
+2. `pip install -r requirements.txt` using the accompanying requirements.txt
 
 
 #### Note on running on Windows
